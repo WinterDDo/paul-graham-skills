@@ -125,6 +125,12 @@ Six seems close to right.
 
 ---
 
+## A Note on Paul Graham
+
+Paul Graham's essays have shaped how I think over many years. This compression exists *because* of that influence — as a tribute, not a replacement. The original essays are where the real work lives. Every principle above links back to the source.
+
+If any handling of his ideas crosses a line of taste, that error is mine, not his.
+
 ## Source
 
 All essays by [Paul Graham](https://paulgraham.com/articles.html).

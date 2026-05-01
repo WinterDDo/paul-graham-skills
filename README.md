@@ -67,6 +67,14 @@ The original temptation was to make the skills *be* the principles for humans, i
 
 The two outputs preserve both. PRINCIPLES.md is for the question *how should I think and live?* The skills are for the question *how should Claude work?* Both are derivable from the same essays, but only by reading PG with two different intentions.
 
+## A Note on Paul Graham
+
+Paul Graham's essays have shaped how I think over the past many years. This project exists *because* of that — as a tribute to ideas I keep returning to, not as a replacement for reading him in full, and not as commentary on his work.
+
+Every principle here links back to the original essay. The source is where the real work lives; what is collected in this repo is a compression for personal use, published in case it helps others. If any handling of his ideas in this repo crosses a line of taste, that error is mine, not his — and I would rather be told and correct it than have the project misrepresent the spirit it was built in.
+
+The project is open source and free. There is no commercial intent, no paywall, and no claim to authorship of the underlying ideas. What I claim is only the work of compression and the choice of how to package it for AI collaboration.
+
 ## Source
 
 All ideas trace to essays by [Paul Graham](https://paulgraham.com/articles.html). Roughly 37 essays were read for these distillations. The principles and skills are PG's; the compression and packaging are the contribution.
