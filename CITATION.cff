@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: "Paul Graham, Distilled — Five Claude Code Skills + Six Principles"
+message: "If you reference this distillation in your own work, please cite both this repository and Paul Graham's original essays."
+type: software
+authors:
+  - family-names: "WinterDDo"
+    given-names: ""
+repository-code: "https://github.com/WinterDDo/paul-graham-skills"
+abstract: >-
+  A distillation of Paul Graham's essays into two parallel outputs: five
+  Claude Code execution skills (loadable behavioral disciplines for AI
+  agents) and six principles for human cognition (essay-form synthesis).
+  The skills and principles are derived from approximately 37 of PG's
+  essays read with two distinct filters: 'what describes a Claude
+  execution behavior?' (skills) and 'what describes a thinking
+  discipline a human should internalize?' (principles).
+keywords:
+  - claude-code
+  - claude-skills
+  - paul-graham
+  - prompt-engineering
+  - llm-tools
+  - ai-agents
+  - anthropic
+license: MIT
+references:
+  - type: collection
+    title: "Paul Graham's Essays"
+    authors:
+      - family-names: "Graham"
+        given-names: "Paul"
+    url: "https://paulgraham.com/articles.html"
